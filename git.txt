@@ -1,0 +1,4 @@
+$ git init
+$ git remote add origin https://github.com/DEVRHEL/JS.git
+$ git add *
+$ git push origin master
